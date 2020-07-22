@@ -1,0 +1,17 @@
+{
+  "name": "no-noscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "minimist": "^1.2.5",
+    "puppeteer-core": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}

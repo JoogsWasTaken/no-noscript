@@ -1,0 +1,131 @@
+# Locked out by cookie consent (1)
+
+https://npr.org/
+
+# Fired too often (2)
+
+https://cloudflare.com/
+https://disney.com/
+
+# DDOS protection (7)
+
+https://000webhost.com/
+https://bloomberg.com/
+https://canva.com/
+https://newsweek.com/
+https://pexels.com/
+https://pixabay.com/
+https://stores.jp/
+
+# Broken (9)
+
+https://adobe.com/
+https://cbc.ca/
+https://deezer.com/
+https://ea.com/
+https://ehow.com/
+https://myspace.com/
+https://politico.com/
+https://usnews.com/
+https://wiley.com/
+
+# Static service/CDN (8)
+
+https://bp0.blogger.com/
+https://bp1.blogger.com/
+https://bp2.blogger.com/
+https://bp3.blogger.com/
+https://files.wordpress.com/
+https://gstatic.com/
+https://photos1.blogger.com/
+https://storage.googleapis.com/
+
+# Not meant for browsing/otherwise incompatible (4)
+
+https://feedproxy.google.com/
+https://forms.gle/
+https://storage.canalblog.com/
+https://t.co/
+
+# Amazon (8)
+
+https://amazon.ca/
+https://amazon.co.jp/
+https://amazon.co.uk/
+https://amazon.de/
+https://amazon.es/
+https://amazon.fr/
+https://amazon.in/
+https://amzn.to/
+
+# Google (29)
+
+https://accounts.google.com/
+https://books.google.com/
+https://docs.google.com/
+https://drive.google.com/
+https://feedburner.com/
+https://get.google.com/
+https://gmail.com/
+https://google.ca/
+https://google.co.id/
+https://google.co.in/
+https://google.co.jp/
+https://google.co.uk/
+https://google.com.au/
+https://google.com.br/
+https://google.com.tw/
+https://google.de/
+https://google.es/
+https://google.fr/
+https://google.it/
+https://google.nl/
+https://google.pl/
+https://google.ru/
+https://ipv4.google.com/
+https://mail.google.com/
+https://picasaweb.google.com/
+https://plus.google.com/
+https://search.google.com/
+https://sites.google.com/
+https://video.google.com/
+
+# Yahoo (5)
+
+https://finance.yahoo.com/
+https://my.yahoo.com/
+https://news.yahoo.com/
+https://search.yahoo.com/
+https://yahoo.co.jp/
+
+# Wikipedia (11)
+
+https://de.wikipedia.org/
+https://en.wikipedia.org/
+https://es.wikipedia.org/
+https://fr.wikipedia.org/
+https://id.wikipedia.org/
+https://it.wikipedia.org/
+https://ja.wikipedia.org/
+https://m.wikipedia.org/
+https://pl.wikipedia.org/
+https://pt.wikipedia.org/
+https://ru.wikipedia.org/
+
+# Different TLD, same page (10)
+
+https://bbc.com/
+https://bitly.com/
+https://cpanel.net/
+https://ebay.co.uk/
+https://imageshack.us/
+https://ovh.co.uk/
+https://pinterest.co.uk/
+https://huffpost.com/
+https://mozilla.com/
+https://theguardian.com/
+
+# Redirects (4)
+
+https://t.me/
+https://youtu.be/
